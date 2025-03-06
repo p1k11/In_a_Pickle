@@ -1152,3 +1152,4 @@ The current user directory, for saving user-specific settings:
 
 [2025.03.06-10.30.56:383][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.097451 secs
 [2025.03.06-10.32.28:493][973]LogDerivedDataCache: C:/Users/p2790347/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.137 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 950 files in 1525 folders with total size 7 MiB.
+[2025.03.06-10.39.21:508][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
